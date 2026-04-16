@@ -1,4 +1,4 @@
-package weeklyassign;
+package weeklyassign ;
 
 class employee //class
 {

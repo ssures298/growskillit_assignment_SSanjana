@@ -1,6 +1,8 @@
 package weeklyassign;
 class person1
 {
+
+
 	int age;
 	String name;
 
